@@ -1,6 +1,6 @@
-#**Concepts of Programming Assignment Questions**
+# **Concepts of Programming Assignment Questions**
 
-###*-Class taught by Vaishali Chikhalkar*
+### *-Class taught by Vaishali Chikhalkar*
 
 
 1. Write a Program to test Hello World.
