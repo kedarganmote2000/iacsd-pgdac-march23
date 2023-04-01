@@ -1,6 +1,6 @@
 # **Concepts of Programming Assignment Questions**
 
-### *-Class taught by Vaishali Chikhalkar*
+*-Class taught by Vaishali Chikhalkar*
 
 
 1. Write a Program to test Hello World.
@@ -38,6 +38,3 @@
     - Sum of array elements
     
 15. Read two int array and store both in the third array and display third array:
-
----
-This page was buitl using [GitHub Pages](https://pages.github.com/).
