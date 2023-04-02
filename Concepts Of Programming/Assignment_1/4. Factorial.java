@@ -9,13 +9,16 @@ public class Factorial {
         System.out.println("Enter your number: ");
 
         int  fact=1;
+        
+        //asking user for input
         int num = in.nextInt();
 
+        //using while loop to multiply the all the numbers that come before the input to get the factorial value
         while(num!=0){
             fact*=num;
             num--;
         }
-
+        //printing output
         System.out.println("The Factorial of your number is: " + fact);
     }
 }
