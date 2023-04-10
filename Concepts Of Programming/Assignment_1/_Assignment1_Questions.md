@@ -13,7 +13,7 @@
 
 5. Write a program to find m to the power n.
 
-6. Check if umber is a prime number or not.
+6. Check if number is a prime number or not.
 
 7. Sum of series 1 + 2 + 3 + ... + n.
 
