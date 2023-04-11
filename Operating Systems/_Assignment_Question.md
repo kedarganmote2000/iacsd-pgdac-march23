@@ -247,58 +247,56 @@ Replace X with *
         - Input number of rows: 5
       - Expected Output :
 
--           1
--         1   1 
--       1   2   1 
--     1   3   3   1
--   1   4   6   4   1 
+-               1
+-             1   1 
+-           1   2   1 
+-         1   3   3   1
+-       1   4   6   4   1 
 
 34. Write a Shell Script to find the prime numbers within a range of numbers. 
-Test Data :
-Input starting number of range: 1
-Input ending number of range : 50
-Expected Output :
-The prime number between 1 and 50 are :
-2 3 5 7 11 13 17 19 23 29 31 37 41 43 47
+      - Test Data :
+        - Input starting number of range: 1
+        - Input ending number of range : 50
+      - Expected Output :
+        - The prime number between 1 and 50 are :
+        - 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47
 
-35. Write a Shell Script to display the first n terms of the Fibonacci series. 
-Fibonacci series 0 1 2 3 5 8 13 .....
-Test Data :
-Input number of terms to display : 10
-Expected Output :
-Here is the Fibonacci series upto to 10 terms :
-0 1 1 2 3 5 8 13 21 34
+35. Write a Shell Script to display the first n terms of the Fibonacci series. Fibonacci series 0 1 2 3 5 8 13 .....
+      - Test Data :
+        - Input number of terms to display : 10
+      - Expected Output :
+        - Here is the Fibonacci series upto to 10 terms :
+        - 0 1 1 2 3 5 8 13 21 34
 
 36. Write a Shell Script to display a such a pattern for n rows using a number that starts with 1 and each row will have a 1 as the first and last number. 
-
-  1
- 121
-12321
+-         1
+-        121
+-       12321
 
 37. Write a Shell Script to display the number in reverse order. 
-Test Data :
-Input a number: 12345
-Expected Output :
-The number in reverse order is : 54321
+      - Test Data :
+        - Input a number: 12345
+      - Expected Output :
+        - The number in reverse order is : 54321
 
 
 38. Write a Shell Script to check whether a number is a palindrome or not. 
-Test Data :
-Input a number: 121
-Expected Output :
-121 is a palindrome number.
+      - Test Data :
+        - Input a number: 121
+      - Expected Output :
+        - 121 is a palindrome number.
 
 
 39. Write a Shell Script to find the number and sum of all integers between 100 and 200 which are divisible by 9. 
-Expected Output :
-Numbers between 100 and 200, divisible by 9 :
-108 117 126 135 144 153 162 171 180 189 198
-The sum : 1683
+      - Expected Output :
+        - Numbers between 100 and 200, divisible by 9 :
+        - 108 117 126 135 144 153 162 171 180 189 198
+        - The sum : 1683
 
 
 40. Write a Shell Script to display the pyramid pattern using the alphabet. 
 
--        A
--      A B A 
--    A B C B A
--  A B C D C B A 
+-            A
+-          A B A 
+-        A B C B A
+-      A B C D C B A 
