@@ -4,15 +4,15 @@
 
 
 ### Practice DQL statement
-  1. Write SQL statement for the following
-    1. To find all managers with salary >1500
-    2. List all employees with sal >1200 and < 2000
-    3. list all employees with sal is 1600 or sal is 800 or sal is 1900
-    4. list all employees with R at second last position in name
-    5. List all employees with name starts with A and ends with N
+1. Write SQL statement for the following
+      1. To find all managers with salary >1500
+      2. List all employees with sal >1200 and < 2000
+      3. list all employees with sal is 1600 or sal is 800 or sal is 1900
+      4. list all employees with R at second last position in name
+      5. List all employees with name starts with A and ends with N
 
 ### Solve the following
-  2. Write SQL statement for the following
+2. Write SQL statement for the following
     1. list all employees with salary > 1250 and dept no=30
     2. list all employees with salary >=1250 and <= 3000
     3. list all employees with salary >1250 and < 3000
