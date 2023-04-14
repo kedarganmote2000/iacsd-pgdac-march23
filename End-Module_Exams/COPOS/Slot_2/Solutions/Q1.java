@@ -17,16 +17,21 @@ public class COPOSSolutionQ3 {
         }
       
       // Checking the occurance of each element in the array
+        Arrays.sort(arr);
                 for (int i = 0; i < arr.length; i++) {
-                    int count = 0;
-                  
-                    for (int k = 0; k < arr.length; k++) {
-                        if (arr[i] == arr[k])
+                    int count = 1;
+                     if(i!=arr.length-1){
+                    for (int k = i+1; k < arr.length; k++) {
+                        if (arr[i] == arr[k]){
+                        
                             count++;
+                        }
                     }
+                     }
                   
                   // Printing out the occurance of each element in the array
                     System.out.println(arr[i] + " occurs " + count + " times in the Array");
+                    i+=(count-1);
                 }
     }
 }
