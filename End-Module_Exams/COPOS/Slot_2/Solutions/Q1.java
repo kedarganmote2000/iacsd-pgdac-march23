@@ -20,8 +20,6 @@ public class COPOSSolutionQ3 {
                 for (int i = 0; i < arr.length; i++) {
                     int count = 0;
                   
-                  // write your logic for check condition here:
-                  
                     for (int k = 0; k < arr.length; k++) {
                         if (arr[i] == arr[k])
                             count++;
