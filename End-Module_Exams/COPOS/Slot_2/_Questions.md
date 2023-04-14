@@ -1,4 +1,4 @@
-# **COPOS Slot #2 Questions**
+# **Slot#2 COPOS End-Module Questions**
 
 1.  Accept 10 integers from user and count the occurrences of each element in the array.
 
